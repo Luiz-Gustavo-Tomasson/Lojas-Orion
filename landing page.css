@@ -24,7 +24,7 @@ header{
 }
 
 .navigation .logo{
-    width: 150px;
+    width: 130px;
     height: 110px;
 }
 
@@ -50,7 +50,7 @@ main section{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0.1rem 7rem;
+    padding: 0.2rem 7rem;
 }
 
 .main-text h1{
