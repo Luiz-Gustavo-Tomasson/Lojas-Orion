@@ -14,7 +14,7 @@ body{
 
 header{
     padding: 8px 70px;
-    background: #fff;
+    background: #000;
 }
 
 .navigation{
@@ -24,8 +24,8 @@ header{
 }
 
 .navigation .logo{
-    width: 75px;
-    height: 75px;
+    width: 150px;
+    height: 110px;
 }
 
 .navigation ul{
@@ -35,7 +35,7 @@ header{
 }
 
 .navigation ul li a{
-    color: #000;
+    color: #fff;
     font-weight: 600;
     padding-bottom: 4px;
     transition: all 0.5s ease-in-out;
